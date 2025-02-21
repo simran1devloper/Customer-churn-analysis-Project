@@ -2,6 +2,7 @@
 
 ## 📊 Overview
 This project focuses on analyzing and predicting customer churn using the **Credit Card Customers** dataset. The goal is to identify key factors leading to customer churn and build a predictive model to help financial institutions retain valuable customers.
+![Project Power BI Dashboard Overview](https://github.com/simran1devloper/Customer-churn-analysis-Project/blob/main/Screenshot%202025-02-21%20090928.png)
 
 ## 🎯 Goals
 1. **Exploratory Data Analysis (EDA):**
