@@ -8,7 +8,9 @@ This project focuses on analyzing and predicting customer churn using the **Cred
 1. **Exploratory Data Analysis (EDA):**
    - Understand customer behavior and differentiate between churning and non-churning profiles.
    - Identify patterns, trends, and anomalies that influence customer churn.
+![EDA Python file ](https://github.com/simran1devloper/Customer-churn-analysis-Project/blob/main/customer_churn_anylasis/customer_churn_analysis.ipynb)
 
+   
 2. **Churn Prediction Modeling:**
    - Build a machine learning model to predict whether a customer will churn.
    - Optimize the model with a focus on the **Recall** metric (target > 62%) to minimize false negatives.
